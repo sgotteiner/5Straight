@@ -14,7 +14,7 @@ public class Constants {
 
     public static final int O = R.drawable.circle;
 
-    static final int X = R.drawable.x_image;
+    static final int X =  R.drawable.x_image;
 
 
 }
